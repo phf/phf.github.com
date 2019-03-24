@@ -4,7 +4,7 @@ https://keybase.io/phf
 
 I hereby claim:
 
-  * I am an admin of http://phf.rocks
+  * I am an admin of https://phf.github.io
   * I am phf (https://keybase.io/phf) on keybase.
   * I have a public key with fingerprint 27F0 C953 8C73 92B0 FF35  68A7 16C1 EBC7 3E65 BF93
 
@@ -22,49 +22,49 @@ To do so, I am signing this object:
       "username": "phf"
     },
     "service": {
-      "hostname": "phf.rocks",
-      "protocol": "http:"
+      "hostname": "phf.github.io",
+      "protocol": "https:"
     },
     "type": "web_service_binding",
     "version": 1
   },
-  "ctime": 1509911782,
+  "ctime": 1553433759,
   "expire_in": 157680000,
-  "prev": "f91f2b92467e3895c485e98956a5468f852d98ddbf138763a1a04224ee389866",
-  "seqno": 28,
+  "prev": "dbc4bf5de8ebe98e8f40ee9f1ba649a54208480e17e90369ca5d29facb10f484",
+  "seqno": 33,
   "tag": "signature"
 }
 
 which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.0.76
+Version: Keybase OpenPGP v2.1.0
 Comment: https://keybase.io/crypto
 
-yMNqAnicbVJ7UFRVHF5WlEDLRYlAseRO4YxseM99nHsPDo2iachjeEeGLfdxLlyh
-3XV3gYCcBgckm3w0hITJ0uQMA2NqOhMZgTyKkGnoRTbCluMyA9NGbEQGJoHdy+T0
-T+efc853vu873+83v88fXmEICQjvmxp8BvfUB3zZd7LU8ML9kskqQrTJFUR8FVGM
-lzdcImOny1KsykQ8QQKKhBwJKZFSBIaFpCBDFiuQEzAjKwDxkiQCSYYYIYFGHE3K
-WMGSKDCKJHCcLCNBIUmBMBOKai3EDrtDtbo0W4pTSAmxNC9xNKJEUlFoFvICB6AE
-sKiBGLKigmhNWGRz6gotnCg4cZxq0zDtYlmO9z/8B7lJIFE0RQmcBESBkmgkKlgU
-AYcZHiuMzImyJCBaxhhiCAFJihzEWAIkFiEWEeBktJy7dNmO5jGpUKyIAQ9JSMoI
-QkWSGJoEHBRJgHSiEzuswstYY9uLFOKwmdCAMlXCek/1Iv57jHPYpGKnprE7bC6b
-ZCvR4CKXyx6vq1wVdp1WjkXLvwYWUbXKWvs0QRl2OFWblYgHGlNyqbojYEmEAOB4
-ykzgV+yqA1tUncFykCe1pX+DyzRLBQGFEhHFQA7TPGIlhmcx0g5QYBnIKzxLyYiX
-ZVEBNM9BWgACyVAUg3U2DyGhl3TIaiPiKV7LKRRqnk610Cq4Sh2YONzflx9oCAgx
-rFpp1OfKEBJsejBtmTaToX4mr+X7SE9H65mN95+NTWjavWtDw2C6sYtPktzec83R
-qHzcHbM3wxRTcmM8zD0cdam7Jqf6Ee+F201q5WzGjaY2w9ExvHQ1zZ+4NXtunZL7
-aewI/9tx/7oW3+/PTxiZ2ztTTn5ntFU+5F0K2lYD/ijMMB/c2PBxbbBlLPTViguv
-bX+9ZvRAR/Bw+2AWDizIz35iYcf+NrD2s19y1/SbUjd/ddr50XDD7l2xBURFdF2B
-0vVr26LLuLj2wBBMIr/t3HB+/56xUzWbWs3Jlwfr2j/8oqWvypN4Qug4aPKtHhy5
-+INz6p2+nwccpkg5NPl6bumVnMb+rUGRC2GTATgsqLv1DW/EnUfb582dEbNrEnvu
-xhVFv/f49NybqaPu+TsRuItveXFgotd39m5aXrq/5S1vvu/rpXvTMwlnVuWV+s/P
-D91LcVzeuafR37xv5KiHO/Z33UR550BGrmTJ2RtCuS0dUmSmxzglVx2qbT7GNv2U
-deXc9Lso9NrcxaaU2ZITKauHMheSQP/bp/9yj2zZnv1Jr/3IKbBv/Gpa87a40Kjs
-awu3hs8+Zpwtf3rU3/1c/Xi1yZcbs6N4i/up6F70TVnjzGhP75GbjeHE5h999Irq
-iMRi1wfhRE36hKfm/fD+l57sWelkLqVuWl953ZfwZ3JMllrrmZsMnApburXon45a
-7208frN+zPMPtzXG9Q==
-=3hPw
+yMNwAnicbVJrTFxFGOW5FNpmgbYEUqX0VoxUXOe+5t67pLSwphKxmggICSvLfczd
+vTx2133JgnQ1AtWmlQhUCI2hgWCx1aZgs1qrIVRECiI11Zbah2krIIFQGi1Qoot3
+0cY/zp/JfN85Z853ZgY3hofEhCYMzH6bifqbQ0cHWtwhxta6jhpMsEleTF+DlaO1
+DVVIyOkylSsSpscATgDIAEgIhMxTNAS8BGkkQ4ZHlCTjHCuKAi5KEHEcT3IMCSQk
+I1HgKVnkGUaSOF4GgMfSMVmxmpHD7lCsLlWWYGQgcjTJigzJEQKQZZKGLM/gUMSR
+oBYRpAWZI1WixeYMMlRzAu9EOsWm1tSDac3e/+Af+ga4SJAEwTMiLvCESHKCjAQB
+ZxDFIpmSGEESeY6UEIIIQhwAgYEIiThAAkQChzMSt+bbvSZHsgjIBC0gnIUAAomD
+UBZFigQ4AwWAc0GgEzmsfCVS0XaLjNWmY2rBo4gomGlwiP+aOrPisriFf2axO2wu
+m2irUFsWl8vu1AepLq89iH0NCaZ/VUyCYpXUDFWGBzmcis2K6XEVKbqUoCxO0yRF
+kgzNpWOoyq44kEkJImgGskBdwXuQR5WUBJESZFpCLBIQxyJWpgBCnKyGBCmOpykC
+sBQLkBoUB0jIiTwtEZzMq88MZIqlsOBcr1ptmJ4kVZ+8WdV0KmYr73I7EFZ7fsAY
+ERIaE6KJDAt+rpCY6NiHX27TUe1q6R5zWYt0IGfo+zvbsme/GX5Tm5DVNlNyq/PM
+Ul6S91r7hOeN/Ombm+fPUU8ZUibW9Y+97O/s1O7Iy+jv2LW4b6Hn0tGcD1u7OquW
+Oq5YTiR/FpjZEtYb/0VLQndmIOvpMnPgpgFWVq3rsUcU7q3Oj5l8dGoyxbHhK3cg
+8d3AEp2anKaZyDhW9MmJL7XRhefafP59V+Ivbrrc57sR5l/JjYyK6KZzhjO77yYW
+VF89/lhTqMHc1+5LiDsQXTf9Q9F7I8fG6PHDH7/9/MFfol435k6fykrRPB6V3zwV
+c/aefvmqMX0ubzr7gffw/juHfk217P26JIqPG3ly/ZF3wktu7fCZt87Rsd7YQX/1
+5u3d2uWdpM1T1nNhtWGh7XTuYnT20viLRdhK0/rRgd+8Gx584E4mmu9t9C92JjXN
+/vUjlF8gF6qSarbqOHf//Wuly9OsT5PrX3if3tml++lk4mzv6vVn3emRZ7a0N2Zc
+yDddfqUykx7d9SnVV1dS1NOarf0o3jyeeX3bbaw47jvTn43Hh2qHn/GVDOpOZj+h
+Gwrg5ghmqn7kpYJLPxvr91cYzrefvR9+8BQ/XOl/rtVYWFdcv3ultb3cW9xQlXSo
+YXVOk1bwlmFGk7Yic3+Usmm9vwf23DYsnO6amr+Y+ghH9zXWh1WPHRkZIfs+N6Eb
+kbsHbLp5T0X35Pa5u38DuDLDXQ==
+=5527
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
